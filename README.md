@@ -4,8 +4,7 @@
 
 Este projeto foi desenvolvido como parte do desafio da Alura + Oracle, com o objetivo de aprimorar habilidades em lógica de programação e JavaScript. O "Amigo Secreto" é uma aplicação interativa que permite aos usuários adicionar nomes de amigos, removê-los e realizar um sorteio de amigo secreto de forma simples e intuitiva.
 
-🔹 Pequena descrição para o repositório:
-Uma aplicação web interativa para sorteio de amigo secreto, desenvolvida em JavaScript, HTML e CSS como parte do desafio da Alura + Oracle.
+🔹 Essa aplicação web interativa para sorteio de amigo secreto, foi desenvolvida em JavaScript, HTML e CSS como parte do desafio da Alura + Oracle.
 
 ## 🚀 Funcionalidades
 
